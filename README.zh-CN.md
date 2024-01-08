@@ -16,7 +16,7 @@
 
 ## Windows
 
-- 可以在[github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases)下载`exe`安装包
+- 可以在 [github](https://github.com/qishibo/AnotherRedisDesktopManager/releases) 或者 [gitee](https://gitee.com/qishibo/AnotherRedisDesktopManager/releases)下载`exe`安装包
 - 或者通过**chocolatey**: `choco install another-redis-desktop-manager`
 - 或者通过**winget**: `winget install qishibo.AnotherRedisDesktopManager`
 - 或者通过Win Store**赞助**，然后让Win Store帮你自动更新版本
